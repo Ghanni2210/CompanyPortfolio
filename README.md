@@ -1,4 +1,4 @@
-# Kugan Venture - React Website
+# Dummy Portfolio - React Website
 
 A modern, professional React website built with industry-standard practices and full configuration management.
 
